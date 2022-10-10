@@ -1,6 +1,6 @@
 # 코어 자바스크립트 스터디 ✍️
 
-<img src="http://image.yes24.com/goods/78586788/XL" width=600 />
+<img src="http://image.yes24.com/goods/78586788/XL" width=300 />
 
 - 저자: 정재남
 - 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍
