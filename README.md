@@ -20,7 +20,7 @@
 ## 목차
 
 - [x] 1. 데이터 타입 - 2022.10.10
-- [ ] 2. 실행 컨텍스트
+- [x] 2. 실행 컨텍스트 - 2022.10.14
 - [ ] 3. this
 - [ ] 4. 콜백 함수
 - [ ] 5. 클로저
@@ -32,13 +32,14 @@
 - 본인의 이름(닉네임)으로 된 브랜치를 판다.
 - 각 장의 폴더에 본인의 이름(닉네임)으로 폴더를 만들고, 정리한 내용을 .md파일로 올린다.
   - ex) 01\_데이터타입 > leedawn > 01_summary.md
-- 본인 이름으로 된 폴더를 만들어서 정리하면 충돌 날 일이 없기 때문에 main에 직접 push한다.
+- 본인 브랜치 push
 - pr 날리기
   - 본인의 브랜치 -> main
 
 ## 터미널 명령어
 
-1. git pull
-2. git add .
-3. git commit -m "`이름`: `내용`"
-4. git push origin main
+1. git fetch upstream main
+2. git pull upstream main
+3. git add .
+4. git commit -m "`이름`: `내용`"
+5. git push origin `본인 브랜치명`
